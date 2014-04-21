@@ -1,0 +1,2 @@
+config.sys
+DEVICE={PATH}\asg.sys /Q

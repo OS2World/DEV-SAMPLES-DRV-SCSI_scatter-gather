@@ -1,0 +1,14 @@
+#PRJNAME
+scan
+#C
+#DEFINED
+#INCDIR
+./
+../include
+#SOUR
+./*.c
+#OBJDIR
+.
+#LINKLIB
+#EXEFILE
+scan.exe
